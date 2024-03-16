@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Página web de la asignatura y el profesor que la imparte">
+  <meta name="keywords" content="asignatura, profesor, educación">
+  <meta name="author" content="Nombre del profesor">
+  <title>Asignatura - 3º de Educación Matemáticas </title>
+  <link rel="stylesheet" href="styles.css"> <!-- Enlace a la hoja de estilos CSS -->
+</head>
+<body>
+  <header>
+    <h1>Matemáticas 3º de Educación primaria </h1>
+    <nav>
+      <ul>
+        <li><a href="#informacion">Información</a></li>
+        <li><a href="#profesor">Sandra Márquez García</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="informacion">
+      <h2>Información de la asignatura</h2>
+      <!-- Contenido sobre la asignatura -->Multiplicaciones y divisiones 
+    </section>
+    <section id="imagen-matematicas">
+      <h2>Introducción Matemáticas de 3º de primaria</h2>
+      <img src="https://safa.edu.ec/wp-content/uploads/2023/03/maxresdefault.jpg" alt="Matemáticas de 3º de primaria">
+    </section>
+    <section id="profesor">
+      <h2>Sandra Márquez García </h2>
+      <h2>Presentación del responsable</h2>
+      <p>La responsable de la asignatura es la profesora Sandra Márquez García.</p>
+      <p>Puede contactar con ella en el siguiente correo electrónico: <a href="mailto:sandra.margar.8@educa.jcyl.es">sandra.margar.8@educa.jcyl.es</a>.</p>
+      <h2>Presentación de la asignatura</h2>
+      <p>La asignatura es matemáticas de 3º de primaria.</p>
+      <h3>Contenidos de la asignatura:</h3>
+      <ul>
+        <li>Sumas y restas</li>
+        <li>Multiplicaciones</li>
+        <li>Divisiones</li>
+      </ul>
+      <h3>Recursos útiles:</h3>
+      <ul>
+        <li><a href="https://www.orientacionandujar.es/wp-content/uploads/2016/05/3º-Plan-de-mejora-y-ampliación-MAT.pdf">Refuerzo y ampliación matemáticas 3º de primaria</a></li>
+        <li><a href="https://www.matematicasinclusivas.com/3o-tercero-educacion-primaria/">Refuerzo matemáticas inclusión</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>Derechos de autor © 2024 Asignatura de Matemáticas</p>
+  </footer>
+</body>
+</html>
